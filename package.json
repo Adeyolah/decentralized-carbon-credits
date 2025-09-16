@@ -1,0 +1,24 @@
+{
+  "name": "decentralized-carbon-credits",
+  "version": "1.0.0",
+  "description": "A transparent carbon credit marketplace that connects environmental projects with organizations seeking to offset their carbon footprint",
+  "main": "index.js",
+  "scripts": {
+    "test": "clarinet test",
+    "check": "clarinet check",
+    "dev": "clarinet console"
+  },
+  "keywords": [
+    "carbon-credits",
+    "blockchain",
+    "clarity",
+    "stacks",
+    "environment",
+    "sustainability"
+  ],
+  "author": "GitHub User",
+  "license": "MIT",
+  "devDependencies": {
+    "@stacks/cli": "^21.2.0"
+  }
+}
